@@ -37,11 +37,5 @@
     "level" : "1d6 + 4",
     "utilisable" : "appareil complexe",
     "effet" : "une fois activé, l'appareil émet un bruit subsonique pendant sept heures. À la fin de chaque heure, tout objet métallique à longue portée ou moins de l'appareil subit 4 points de dégâts."
-   },
-
-
-
-
-
-
+   }
 ]
